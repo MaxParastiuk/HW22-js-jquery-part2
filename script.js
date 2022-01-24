@@ -90,10 +90,7 @@ class TodoList {
         } catch (error) {
             console.error('Ошибка:', error);
         }
-
-
     }
-
 }
 
 
