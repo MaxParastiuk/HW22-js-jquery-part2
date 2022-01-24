@@ -5,7 +5,7 @@ const urlLink = "http://localhost:3000/todos"
 
 
 class TodoList {
-    constructor(el) {
+    constructor() {
 
     }
 
